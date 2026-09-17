@@ -1,0 +1,6 @@
+{
+  "name": "SpendSense",
+  "description": "Modern tactile personal budgeting and expense tracking application with emergency savings milestones and clear financial health indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
